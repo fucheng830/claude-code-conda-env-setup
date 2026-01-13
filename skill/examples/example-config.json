@@ -1,0 +1,8 @@
+{
+  "env": {
+    "PATH": "/c/ProgramData/anaconda3/envs/hrms-algo:/c/ProgramData/anaconda3/envs/hrms-algo/Scripts:/c/ProgramData/anaconda3/condabin:${PATH}",
+    "CONDA_DEFAULT_ENV": "hrms-algo",
+    "CONDA_PREFIX": "/c/ProgramData/anaconda3/envs/hrms-algo",
+    "PYTHONPATH": "/c/ProgramData/anaconda3/envs/hrms-algo/Lib/site-packages:${PYTHONPATH}"
+  }
+}
