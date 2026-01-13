@@ -1,5 +1,7 @@
 # Claude Code - Conda Environment Setup Skill
 
+**[English](README.md) | [中文文档](README_CN.md)**
+
 Automatically configure conda environments for Claude Code workspaces using environment variables instead of shell activation.
 
 ## Overview
